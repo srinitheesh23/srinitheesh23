@@ -14,11 +14,13 @@ Whether it's designing seamless user experiences or developing immersive game wo
 
 ## 🛠 Tech Stack
 
+## 🛠 Tech Stack
+
 <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/wix.png" width="40" alt="Wix"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/framer.png" width="40" alt="Framer"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Wix.com_website_logo.svg" width="40" alt="Wix"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/framer.svg" width="40" alt="Framer"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" alt="Unity"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" alt="Unreal Engine"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/> &nbsp;
