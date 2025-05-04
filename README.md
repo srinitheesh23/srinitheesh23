@@ -197,7 +197,7 @@ Security Engineer × Game Dev × Ethical Hacker
   
   <!-- Hover Effect Code -->
   <div style="margin-top: 25px; font-size: 12px; color: #6e7681;">
-    <span style="color: #9FEF00;">Hover-Tip:</span> Try adding this CSS for interactive effects:
+    <span style="color: #9FEF00;">
     <pre style="background: #161b22; padding: 8px; border-radius: 4px; text-align: left;">
 </pre>
   </div>
