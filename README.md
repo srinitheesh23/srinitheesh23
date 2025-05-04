@@ -6,6 +6,7 @@ Crafting secure, stunning digital worlds — from wireframes to real-time render
 ---
 
 #ABOUT ME 
+
 Security Engineer | Game Developer | UX Security Alchemist
 
 I'm an intermediate-level cybersecurity engineer with a love for building secure, intuitive, and creative tech solutions.  
