@@ -17,8 +17,8 @@ Whether it's designing seamless user experiences or developing immersive game wo
 <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/> &nbsp;
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/wix-company-icon.png" width="40" alt="Wix"/> &nbsp;
-  <img src="https://framerusercontent.com/images/YmaLpzfNzzT6nGtG7ngcuEhBcCRqjFQAMNp5O0HW.png" width="40" alt="Framer"/> &nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968770.png" width="40" alt="Wix"/> &nbsp;
+  <img src="file:///C:/Users/Narasiman/Downloads/framer.svg
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" alt="Unity"/> &nbsp;
   <img src="https://logowik.com/content/uploads/images/unreal-engine-icon1721420032.logowik.com.webp" width="40" alt="Unreal Engine"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/> &nbsp;
@@ -29,6 +29,7 @@ Whether it's designing seamless user experiences or developing immersive game wo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/> &nbsp;
 
 </div>
+
 
 
 ---
