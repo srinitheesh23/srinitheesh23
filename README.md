@@ -14,15 +14,13 @@ Whether it's designing seamless user experiences or developing immersive game wo
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Wix.com_website_logo.svg" width="40" alt="Wix"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/framer.svg" width="40" alt="Framer"/> &nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/wix-company-icon.png" width="40" alt="Wix"/> &nbsp;
+  <img src="https://framerusercontent.com/images/YmaLpzfNzzT6nGtG7ngcuEhBcCRqjFQAMNp5O0HW.png" width="40" alt="Framer"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" alt="Unity"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" alt="Unreal Engine"/> &nbsp;
+  <img src="https://logowik.com/content/uploads/images/unreal-engine-icon1721420032.logowik.com.webp" width="40" alt="Unreal Engine"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="GoLang"/> &nbsp;
@@ -31,6 +29,7 @@ Whether it's designing seamless user experiences or developing immersive game wo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/> &nbsp;
 
 </div>
+
 
 ---
 
